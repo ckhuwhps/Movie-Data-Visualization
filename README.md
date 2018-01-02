@@ -1,1 +1,3 @@
 # Movie-Data-Visualization
+
+This is another programming assignment created as part of Kirill Eremenko's Data Science with R course on Udemy. Here, the focus is using the concept of "layering" with the ggplot2 function to visualize movie data. The overall visualization is made of several elements that are added on as components. One benefit of this is making visualizations more modular. There is flexibility in constructing different varieties of visualizations from the same data set. Attached is the csv file, the R script, and the two visuzalizations the script produces. The csv file was supplied as part of the course materials.
